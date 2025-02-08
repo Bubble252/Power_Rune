@@ -1,0 +1,1 @@
+2023_energy_mechine_code_f4\startup_stm32f407xx.o: startup_stm32f407xx.s
